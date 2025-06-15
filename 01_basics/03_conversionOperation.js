@@ -1,4 +1,4 @@
-let score=null
+/*let score=null
 
 console.log(typeof score);
 
@@ -22,5 +22,32 @@ let someNumber=33
 let stringNumber=String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+*/
+
+//  ************************Operations ********************************
+
+let value=3
+let negValue=-value
+console.log(negValue);
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/3);
+console.log(2**3);
+
+//****Complex problems ********
+
+console.log("1"+2);  //12
+console.log(1+"2");  //12
+console.log("1"+2+2);  //122
+console.log(1+2+"2");   //32
+
+console.log(+true); //1
+console.log(+"");    //0
+//console.log(true+);   //error unexpected token
+
+
+
 
 
